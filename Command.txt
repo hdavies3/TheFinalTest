@@ -1,0 +1,11 @@
+Recording Commands
+mkdir FinalTest
+touch File.txt
+touch Command.txt
+git add InfoFile1
+git add InfoFile2
+git commit -m "Insert Text here"
+git config user.name "hdavies3_INFO"
+git add Command.txt
+git status
+I learned that Command.txt and MyFile.txt have been modified and that it shows that Command.txt is in the staging area from earlier, therefore it is not up to date to it's current contents.
